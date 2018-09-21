@@ -4,7 +4,7 @@ Getting coverage reports with Angular
 
 This source code is part of a blogpost about getting Code Coverage Reports with Angular and includes the configuration needed to show these results in SonarQube/ SonarCloud.
 
-More info: [Getting coverage reports with Angular]('https://yuriburger.net')
+More info: [Getting coverage reports with Angular](https://yuriburger.net)
 
 To setup the demo:
 
